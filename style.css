@@ -13,6 +13,10 @@ button {
     background-color: plum;
 }
 
+button:focus {
+    outline: none;
+}
+
 div {
     float: left;
     width: 30px;
