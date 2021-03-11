@@ -1,0 +1,1 @@
+First project in JS based on Samuraj PRogramowania course.
