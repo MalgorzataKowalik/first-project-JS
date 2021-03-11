@@ -6,6 +6,11 @@
 button {
     display: block;
     margin: 10px auto;
+    padding: 8px;
+    font-size: 20px;
+    cursor: pointer;
+    letter-spacing: 1px;
+    background-color: plum;
 }
 
 div {
